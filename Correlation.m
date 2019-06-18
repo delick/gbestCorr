@@ -1,6 +1,7 @@
 %% Correlation between images.
 % Calculates the correlation between average |gbest| image and |LAI|, |WSO|
 % at different times.
+% Author: DelickTang @ CUGB.
 
 %% I/O
 % % Choose image with correct spatial reference.
