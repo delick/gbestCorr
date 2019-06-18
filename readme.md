@@ -1,15 +1,3 @@
----
-title: gbest Correlation
-categories:
-- RS
-tags:
-- correlation
-- coefficient of variation
-- WOFOST
-date: 2019-06-18
-mathjax: true
----
-
 # Intro
 Calculates the correlation between `gbest` and `LAI` / `WSO` at different times.
 
